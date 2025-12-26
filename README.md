@@ -6,12 +6,4 @@ Bienvenido a REFRISOFT, una aplicación diseñada para gestionar y optimizar pro
 ⚠️ Nota: El programa principal se encuentra en la rama RSTINICIAL
  de este repositorio.
 
-📂 Estructura del Proyecto
 
-RSTINICIAL/ – Rama principal donde se encuentra el desarrollo inicial del software.
-
-README.md – Documentación principal del proyecto.
-
-src/ – Carpeta con el código fuente del proyecto.
-
-docs/ – Documentación adicional (manuales, diagramas, etc.).
